@@ -1,5 +1,6 @@
 def first_challenge
    epic_tragedy = {
+     
      montague: {
        
        patriarch: {
@@ -22,9 +23,9 @@ def first_challenge
          },
          {
            name: "Mercutio",
-           age: "18"
+           age: "18",
+           attitude: "hot-headed"
          }
-       
        ]
   
      }
